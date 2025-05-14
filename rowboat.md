@@ -6,4 +6,4 @@ What do you do?
 
 
 - [Walk closer to the noise](cabin_path.md)
-- [go away](open_lake.md)
+- [go away](open-lake.md)
