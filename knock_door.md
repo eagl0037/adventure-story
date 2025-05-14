@@ -5,5 +5,5 @@ You knock twice. The music stops. A moment later, the door creaks open, revealin
 She smiles without speaking and gestures for you to enter.
 
 Do you:
-- [walkaway](mushroom_path.md)
+- [walkaway](open-lake.md)
 - [go to bridge](cross_bridge.md)
