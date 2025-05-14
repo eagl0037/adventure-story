@@ -5,4 +5,5 @@ A troll emerges, blocking your way forward.
 What do you do?
 
 - [sneak away](sneak_around.md)
+- - [Take the rowboat downstream](rowboat.md)
 
