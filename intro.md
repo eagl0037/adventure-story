@@ -6,3 +6,4 @@ Do you:
 - [Follow the glowing mushrooms](mushroom_path.md)
 - [Take the muddy path toward water](water_path.md)
 - [Approach the cabin in the clearing](cabin_path.md)
+
