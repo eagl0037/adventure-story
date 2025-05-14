@@ -6,3 +6,4 @@ What do you do?
 
 
 - [Walk closer to the noise](mushroom_path.md)
+- [go away](cabin_path.md)
