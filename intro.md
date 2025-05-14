@@ -5,4 +5,4 @@ The sun is setting as you follow a narrow trail into the forest. You’ve heard 
 What to do next?:
 - [Follow the glowing mushrooms](mushroom_path.md)
 - [Take the muddy path toward water](water_path.md)
-- [Approach the cabin in the clearing](cabin_path.md)
+- [Take the rowboat downstream](rowboat.md)
