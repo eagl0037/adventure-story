@@ -4,5 +4,5 @@ When you stop dock the boat near the Village you hear a noise.
 
 What do you do?
 
-- [Go away from it and cross the bridge](cross_bridge.md)
+- [Go away from it and cross the bridge](crossbridge.md)
 - [Walk closer to the noise](keep_walking.md)
