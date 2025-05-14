@@ -5,4 +5,4 @@ A troll emerges, blocking your way forward.
 What do you do?
 
 - [sneak away](sneak_around.md)
-- [walk back to shore](keep_walking.md)
+- [walk back to shore](open-lake.md)
