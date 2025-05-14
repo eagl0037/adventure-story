@@ -5,4 +5,3 @@ You trudge down the muddy trail. Soon, you reach a quiet river with a rickety wo
 Do you:
 - [Cross the bridge](cross_bridge.md)
 - [Take the rowboat downstream](rowboat.md)
-
