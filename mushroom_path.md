@@ -5,3 +5,4 @@ You follow the soft glow of the mushrooms. They pulse gently under your feet. Su
 Do you:
 - [Touch the largest mushroom](touch_mushroom.md)
 - [Keep walking through the glowing grove](keep_walking.md)
+- [Follow the glowing fireflies deeper](fireflies_path.md)
